@@ -29,8 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99126769-7d7f-472e-bdcd-38ece2cdd425" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/images/Hotel Receipt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sudoko.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Sudoko.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Sudoko/images/Hotel Receipt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/backesfamily/soduku/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/backesfamily/soduku/Solver.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -183,14 +184,23 @@
         <entry file="file://$PROJECT_DIR$/src/com/backesfamily/soduku/SolverBruteForce.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Solver.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/backesfamily/soduku/Solver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="599">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="AbstractSolver.java" pinned="false" current-in-tab="false">
@@ -291,6 +301,7 @@
         <option value="$PROJECT_DIR$/resource/text/puzzles.txt" />
         <option value="$PROJECT_DIR$/src/com/backesfamily/soduku/AbstractSolver.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/backesfamily/soduku/Solver.java" />
       </list>
     </option>
   </component>
@@ -976,11 +987,11 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="11" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9987374" visible="true" weight="0.18576598" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9987374" visible="true" weight="0.18576598" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8235931" visible="true" weight="0.2227913" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8235931" visible="true" weight="0.2227913" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32086852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.26182136" />
@@ -1282,9 +1293,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/backesfamily/soduku/Puzzle.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/backesfamily/soduku/Solver.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/backesfamily/soduku/ReflectionHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1381,7 +1389,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/backesfamily/soduku/SolverBruteForce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
@@ -1390,6 +1398,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/backesfamily/soduku/Solver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

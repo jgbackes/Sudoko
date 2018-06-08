@@ -8,12 +8,19 @@ package com.backesfamily.soduku;
  */
 
 public interface Solver {
-  public void solver(int[][] newValues);
-  public void reset(Puzzle puzzle);
-  public int getVisits(int row, int col);
-  public String getSolverName();
-  public void showProgress(final int row, final int col, final int value);
-  public void load(int[][] values);
-  public boolean isEmpty(int row, int col, int value);
-  public boolean tryOne(final int inRow, final int inCol);
+  void solver(final int[][] newValues);
+
+  void reset(final Puzzle puzzle);
+
+  int getVisits(final int row, final int col);
+
+  String getSolverName();
+
+  void showProgress(final int row, final int col, final int value);
+
+  void load(final int[][] values);
+
+  boolean isEmpty(final int row, final int col, final int value);
+
+  boolean tryOne(final int inRow, final int inCol);
 }
